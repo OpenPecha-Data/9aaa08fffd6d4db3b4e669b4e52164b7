@@ -2,9 +2,11 @@ segment_sources:
   f678a3c2e84b4516b86d2d32e6c3a163:
     type: translation
     lang: bo
+    relation: source
   2c247864b22f48f1a415dd2f1fbe6c12:
     type: translation
     lang: en
+    relation: target
 segment_pairs:
   bfdef8770898471f938e84d5265f23ae:
     f678a3c2e84b4516b86d2d32e6c3a163: 4846877070be4d98bd72673b27953b67
